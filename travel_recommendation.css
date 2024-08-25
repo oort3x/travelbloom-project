@@ -33,6 +33,7 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
   background-image: url("pexels-tomfisk-2606532.jpg");
   background-size: 1800px;
+  background-attachment: fixed;
 }
 
 h1 {
